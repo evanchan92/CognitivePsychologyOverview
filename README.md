@@ -1,2 +1,16 @@
-# CognitivePsychologyOverview
-Have a global view of cognitive psychology
+## 项目目的
+* 满足好奇心；
+* 充分 Hack 大脑，达到最大潜力；
+
+## 推进顺序
+### 时间维度的全局认识
+
+### 空间维度的全局认识
+
+### 核心变量
+
+## 参考资料 & 卡片积累
+@Zotero
+
+## Changelog
+190603 陈晨 init
